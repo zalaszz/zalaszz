@@ -8,11 +8,9 @@
     
 ### Who am i? 👨🏾‍🎓
 
-* My name is Ricardo Silva and i am a portuguese student currently in a university in the UK studying the field of computer science.
+* My name is Ricardo Silva and I'm a Portuguese programmer with a degree in computer science from the University of Sunderland.
 
-* I studied in my 3 previous years web development as well as c#.
-
-* In my last 2 years i had 2 internships at the same company.
+* Currently my favourite language is JAVA.
 
 ### Languages, Technologies & Others 👨🏾‍💻
 
