@@ -15,8 +15,8 @@
 <h2 align="center">Stats 📊</h2>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zalaszz&theme=shadow_red&show_icons=true" alt="GitHub stats">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=zalaszz&count_private=true&theme=shadow_red" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=zalaszz&theme=shadow_red&show_icons=true" alt="GitHub stats">
+  <img width="415" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=zalaszz&count_private=true&theme=shadow_red" alt="streak stats"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalaszz&layout=compact&theme=shadow_red" alt="Top Langs">  
