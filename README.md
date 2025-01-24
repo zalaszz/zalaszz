@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=830203&height=200&section=header&animation=fadeIn&text=ZALASZZ&fontAlignY=35&fontColor=747474" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=830203&height=200&section=header&animation=fadeIn&text=Z%20A%20L%20A%20S%20Z%20Z&fontAlignY=35&fontColor=747474" />
 
 <h2 align="center">Who am I? 👨🏽‍🎓</h2>
 <br>
